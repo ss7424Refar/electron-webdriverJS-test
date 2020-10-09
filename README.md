@@ -11,7 +11,7 @@
 3. clone project and build app
    ```
    git clone https://github.com/ss7424Refar/electron-webdriverJS-test.git
-   cd cd electron-quick-start
+   cd electron-quick-start
    npm install
    npm run build-linux-u
    ```    
